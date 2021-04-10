@@ -34,7 +34,7 @@ Pada awal masuk website, maka akan ada tampilan login untuk bisa masuk ke dalam 
 KETERANGAN:
 Pada saat login berhasil, maka akan keluar tampilan halaman home.
 
-3.Tambah Pemesenan Menu Makanan
+3.Tambah Data Makanan
 ![tambah](https://user-images.githubusercontent.com/79913536/114274092-06a89880-9a47-11eb-8a1c-a5963e803571.jpg)
 
 KETERANGAN: Tampilan form Input Data Pemesanan Makanan.
