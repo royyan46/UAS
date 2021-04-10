@@ -26,3 +26,11 @@ Keterangan fungsi yang ada di php :
 
 KETERANGAN :
 Pada awal masuk website, maka akan ada tampilan login untuk bisa masuk ke dalam aplikasi Pemesanan Makanan.
+
+2. Home
+
+![page](https://user-images.githubusercontent.com/79913536/114273965-88e48d00-9a46-11eb-884a-6e829fa01996.jpg)
+
+KETERANGAN:
+Pada saat login berhasil, maka akan keluar tampilan halaman home
+
