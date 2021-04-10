@@ -21,27 +21,35 @@ Keterangan fungsi yang ada di php :
 • window.print() : Menampilkan halaman proses cetak pdf.
 
 1. Login
+
 Pada awal masuk website, maka akan ada tampilan login untuk bisa masuk ke dalam aplikasi Pemesanan Makanan.
 
 2. Home
+
 Pada saat login berhasil, maka akan keluar tampilan halaman home.
 
 3.Tambah Data Makanan
+
 Maka Tampilan form Input Data Pemesanan Makanan. pada saat Tambah data makanan maka akan muncul pemberitahuan data berhasil di Tambah.
 
 4. Form Edit Data Makanan
+
 Jika kita ingin merubah data tersebut bisa menekan tombol edit, lalu data tersebut akan ditampilkan di form edit data.
 
 5.Cetak PDF
+
 Fitur cetak pdf Hasil akan print data pemesanan makanan Berupa PDF
 
 6. Hapus
+
 Jika Ingin menghapus Data Pemesanan makanan, pada saat menghapus data makanan maka akan muncul pemberitahuan data berhasil di hapus.
 
 7. Edit
+
 Jika Ingin Edit Data Pemesanan makanan, pada saat Edit data makanan maka akan muncul pemberitahuan data berhasil di Edit.
 
 8. Logout
+
 Jika ingin keluar Aplikasi maka klik Logout yatiu proses keluar guna memutus akses ke sistem komputer maupun layanan tertentu. Tidak semua proses logout dibuat dengan mengeklik tombol logout.
 
 
