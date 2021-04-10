@@ -2,6 +2,10 @@ Aplikasi Sederhana Pemesanan Makanan Kelompok 5 :
 
 Link Hosting Aplikasi:  https://uaskelompoklima.000webhostapp.com/index.php 
 
+
+
+Keterangan fungsi yang ada di php :
+
 • mysqli_connect ( ) : Membuat koneksi ke database.
 
 • mysqli_fetch_array ( ) : Mengambil hasil baris sebagai asosiatif, array numerik, atau keduanya dari database.
@@ -16,6 +20,9 @@ Link Hosting Aplikasi:  https://uaskelompoklima.000webhostapp.com/index.php
 
 • window.print() : Menampilkan halaman proses cetak pdf.
 
-
+1. Login
 
 ![1](https://user-images.githubusercontent.com/79913536/114273535-9731a980-9a44-11eb-9bcc-210bfcd3164d.jpg)
+
+KETERANGAN :
+Pada awal masuk website, maka akan ada tampilan login untuk bisa masuk ke dalam aplikasi Pemesanan Makanan.
