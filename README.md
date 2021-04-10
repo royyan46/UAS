@@ -46,17 +46,17 @@ Jika ingin keluar Aplikasi maka klik Logout yatiu proses keluar guna memutus aks
 
 
 Anggota kelompok 5 yaitu:
-1.Royan Husen Fatih
-2.Setiardi
-3.Rizki Akbar
-4.Reza Reynaldi
-5.Sadidan Muqorobin
-6.Selvy Pebrianti
 
+• Royan Husen Fatih
 
+• Setiardi
 
+• Rizki Akbar
 
+• Reza Reynaldi
 
+• Sadidan Muqorobin
 
+• Selvy Pebrianti
 
 
