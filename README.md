@@ -34,7 +34,7 @@ Keterangan fungsi yang ada di php :
 
 7. Edit --> Jika Ingin Edit Data Pemesanan makanan, pada saat Edit data makanan maka akan muncul pemberitahuan data berhasil di Edit.
 
-8. Logout --> Jika ingin keluar Aplikasi maka klik Logout yatiu proses keluar guna memutus akses ke sistem komputer maupun layanan tertentu. Tidak semua proses logout dibuat dengan mengeklik tombol logout.
+8. Logout --> Jika ingin keluar Aplikasi maka klik Logout yatiu proses keluar guna memutus akses ke sistem komputer maupun layanan tertentu. 
 
 
 Anggota kelompok 5 yaitu:
