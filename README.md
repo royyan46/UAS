@@ -40,6 +40,7 @@ Pada saat login berhasil, maka akan keluar tampilan halaman home.
 KETERANGAN: Tampilan form Input Data Pemesanan Makanan.
 
 ![berhasil tambah notifiaksi](https://user-images.githubusercontent.com/79913536/114274158-5edf9a80-9a47-11eb-9864-a7cb8eea502b.jpg)
+
 ![image](https://user-images.githubusercontent.com/79913536/114274315-052ba000-9a48-11eb-8d8a-d05e9b6dd6e1.png)
 
 
@@ -50,8 +51,11 @@ KETERANGAN: Berhasil Tambah
 
 KETERANGAN:
 Jika kita ingin merubah data tersebut bisa menekan tombol edit, lalu data tersebut akan ditampilkan di form edit data.
+
 ![berhasil edit](https://user-images.githubusercontent.com/79913536/114274269-d281a780-9a47-11eb-8a60-0b55d0c5a99f.jpg)
+
 ![image](https://user-images.githubusercontent.com/79913536/114274299-eaf1c200-9a47-11eb-8534-d595fe94eec8.png)
+
 KETERANGAN: Berhasil Edit
 
 5.Cetak
@@ -61,10 +65,12 @@ Hasil dari cetak data pemesanan makanan.
 
 6. Hapus
 ![image](https://user-images.githubusercontent.com/79913536/114274414-7a977080-9a48-11eb-8bf9-2cb52345bd39.png)
+
 KETERANGAN:
 pada saat menghapus data makan akan muncul pemberitahuan data berhasil di hapus.
 
 ![image](https://user-images.githubusercontent.com/79913536/114274418-7ec38e00-9a48-11eb-9a8f-4b3edbf94ac8.png)
+
 KETERANGAN:
 pada saat menghapus data makan akan muncul pemberitahuan data berhasil di hapus.
 
