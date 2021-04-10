@@ -15,3 +15,7 @@ Aplikasi Sederhana Pemesanan Makanan terdiri dari :
 • $_SESSION : Menyimpan data atau nilai antar proses request.
 
 • window.print() : Menampilkan halaman proses cetak pdf.
+
+
+
+Link Hosting Aplikasi:  https://uaskelompoklima.000webhostapp.com/index.php 
