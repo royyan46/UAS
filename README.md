@@ -1,6 +1,6 @@
 Aplikasi Sederhana Pemesanan Makanan Kelompok 5 :
 
-Link Hosting Aplikasi:  https://uaskelompoklima.000webhostapp.com/index.php 
+• Link Hosting Aplikasi:  https://uaskelompoklima.000webhostapp.com/index.php 
 
 
 
