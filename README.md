@@ -27,11 +27,11 @@ Keterangan fungsi yang ada di php :
 
 2. Home --> Pada saat login berhasil, maka akan keluar tampilan halaman home.
 
-3.Tambah Data Makanan --> Maka Tampilan form Input Data Pemesanan Makanan. pada saat Tambah data makanan maka akan muncul pemberitahuan data berhasil di Tambah.
+3. Tambah Data Makanan --> Maka Tampilan form Input Data Pemesanan Makanan. pada saat Tambah data makanan maka akan muncul pemberitahuan data berhasil di Tambah.
 
 4. Form Edit Data Makanan --> Jika kita ingin merubah data tersebut bisa menekan tombol edit, lalu data tersebut akan ditampilkan di form edit data.
 
-5.Cetak PDF --> Fitur cetak pdf Hasil akan print data pemesanan makanan Berupa PDF
+5. Cetak PDF --> Fitur cetak pdf Hasil akan print data pemesanan makanan Berupa PDF
 
 6. Hapus --> Jika Ingin menghapus Data Pemesanan makanan, pada saat menghapus data makanan maka akan muncul pemberitahuan data berhasil di hapus.
 
