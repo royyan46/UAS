@@ -27,7 +27,7 @@ Berikut ini Fitur-fitur Aplikasi Pemesanan Makanan Yaitu:
 
 1. Login --> Pada awal masuk website, maka akan ada tampilan login untuk bisa masuk ke dalam aplikasi Pemesanan Makanan.
 
-2. Home --> Pada saat login berhasil, maka akan keluar tampilan halaman home.
+2. Home --> Pada saat login berhasil, maka akan keluar tampilan halaman home Data Pemesanan Makanan.
 
 3. Form Tambah Data Makanan --> Maka Tampilan form Input Data Pemesanan Makanan. pada saat Tambah data makanan maka akan muncul pemberitahuan data berhasil di Tambah.
 
