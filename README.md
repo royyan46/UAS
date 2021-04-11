@@ -23,6 +23,8 @@ Keterangan fungsi yang ada di php :
 
 • window.print() : Menampilkan halaman proses cetak pdf.
 
+Berikut ini Fitur-fitur Aplikasi Pemesanan Makanan Yaitu:
+
 1. Login --> Pada awal masuk website, maka akan ada tampilan login untuk bisa masuk ke dalam aplikasi Pemesanan Makanan.
 
 2. Home --> Pada saat login berhasil, maka akan keluar tampilan halaman home.
