@@ -29,7 +29,7 @@ Berikut ini Fitur-fitur Aplikasi Pemesanan Makanan Yaitu:
 
 2. Home --> Pada saat login berhasil, maka akan keluar tampilan halaman home.
 
-3. Tambah Data Makanan --> Maka Tampilan form Input Data Pemesanan Makanan. pada saat Tambah data makanan maka akan muncul pemberitahuan data berhasil di Tambah.
+3. Form Tambah Data Makanan --> Maka Tampilan form Input Data Pemesanan Makanan. pada saat Tambah data makanan maka akan muncul pemberitahuan data berhasil di Tambah.
 
 4. Form Edit Data Makanan --> Jika kita ingin merubah data tersebut bisa menekan tombol edit, lalu data tersebut akan ditampilkan di form edit data.
 
@@ -37,9 +37,7 @@ Berikut ini Fitur-fitur Aplikasi Pemesanan Makanan Yaitu:
 
 6. Hapus --> Jika Ingin menghapus Data Pemesanan makanan, pada saat menghapus data makanan maka akan muncul pemberitahuan data berhasil di hapus.
 
-7. Edit --> Jika Ingin Edit Data Pemesanan makanan, pada saat Edit data makanan maka akan muncul pemberitahuan data berhasil di Edit.
-
-8. Logout --> Jika ingin keluar Aplikasi maka klik Logout yatiu proses keluar guna memutus akses ke sistem komputer maupun layanan tertentu. 
+7. Logout --> Jika ingin keluar Aplikasi maka klik Logout yatiu proses keluar guna memutus akses ke sistem komputer maupun layanan tertentu. 
 
 
 Anggota kelompok 5 yaitu:
